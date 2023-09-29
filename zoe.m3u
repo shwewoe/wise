@@ -1071,3 +1071,6 @@ https://cdnvod.n2olabs.pro/m3u8/632275/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/627181/ca7b4719a4ca52985b28d93311252d6b.webp" group-title="Movies", Avatar: The way of water 2023
 https://cdnvod.n2olabs.pro/m3u8/627181/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnvod2.n2olabs.pro/poster/899098/bd9e9f595bebe4751c42900f38d1a4b6.webp" group-title="Movies", Avatar: Meg2: The Trench 2023
+https://cdnvod2.n2olabs.pro/m3u8/899098/1080p/index.m3u8
