@@ -1065,3 +1065,9 @@ https://cdnvod.n2olabs.pro/m3u8/629853/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/631016/9a50031dfe17e8486f3d2ba3dc6161b2.webp" group-title="Movies", First X 2023
 https://cdnvod2.n2olabs.pro/m3u8/631016/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/632275/fc985b5ad9057e4d0f372f43f2651198.webp" group-title="Movies", Transformer:Rise of the beasts 2023
+https://cdnvod.n2olabs.pro/m3u8/632275/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/627181/ca7b4719a4ca52985b28d93311252d6b.webp" group-title="Movies", Avatar: The way of water 2023
+https://cdnvod.n2olabs.pro/m3u8/627181/1080p/index.m3u8
