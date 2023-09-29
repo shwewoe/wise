@@ -1060,6 +1060,15 @@ https://webudit.webdicdn.lol/lb/premium327/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/567693/49cf7575ffb99ad748295207300a32b7.webp" group-title="Movies", The Flash 2023
 https://cdnvod.n2olabs.pro/m3u8/567693/1080p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/553651/8531aee40d879470a45382727cd6b576.webp" group-title="Movies", Jhon Wick 1 2014
+https://cdnvod2.n2olabs.pro/m3u8/553651/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/555858/372c41f6bbd05ef1a5063fa3be90bbb2.webp" group-title="Movies", Jhon Wick 2 2017
+https://cdnvod2.n2olabs.pro/m3u8/555858/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/567930/78f4f271b106307f440043d2d0c39468.webp" group-title="Movies", Jhon Wick 3 2019
+https://cdnvod2.n2olabs.pro/m3u8/567930/1080p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/629853/93b9928ec03db85086bc05de0d3a1f4d.webp" group-title="Movies", Jhon Wick 4 2023
 https://cdnvod.n2olabs.pro/m3u8/629853/1080p/index.m3u8
 
