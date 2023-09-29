@@ -1060,6 +1060,9 @@ https://webudit.webdicdn.lol/lb/premium327/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/567693/49cf7575ffb99ad748295207300a32b7.webp" group-title="Movies", The Flash 2023
 https://cdnvod.n2olabs.pro/m3u8/567693/1080p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.myflixerz.to/xxrz/250x400/201/8e/d3/8ed3d05bf1a9f8738355d5b16a22b4d4/8ed3d05bf1a9f8738355d5b16a22b4d4.jpg" group-title="Movies", Blue Beetle 2023
+https://xex.stluserehtem.com/_v10/39a4c82152ca074c8b8718b39924e5ed5c01b98ee8595bb74d049c1d2d688861b9cbf14613d1b4c9154f6c3a75955e183d96d1d26cc0561b1ca04a24710b1f388e26a250579d954530f7bae878583e7c849b3f26312fb3407659966a52ee46d6f4553f7bc7879f55009ead81866ac7fe772e0a2e37634452f2109660b0a94cf2c18342ea607e812887592ad2e9465361/720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/553651/8531aee40d879470a45382727cd6b576.webp" group-title="Movies", Jhon Wick 1 2014
 https://cdnvod2.n2olabs.pro/m3u8/553651/1080p/index.m3u8
 
@@ -1081,5 +1084,5 @@ https://cdnvod.n2olabs.pro/m3u8/632275/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnvod.n2olabs.pro/poster/627181/ca7b4719a4ca52985b28d93311252d6b.webp" group-title="Movies", Avatar: The way of water 2023
 https://cdnvod.n2olabs.pro/m3u8/627181/1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnvod2.n2olabs.pro/poster/899098/bd9e9f595bebe4751c42900f38d1a4b6.webp" group-title="Movies", Avatar: Meg2: The Trench 2023
+#EXTINF:-1 tvg-logo="https://cdnvod2.n2olabs.pro/poster/899098/bd9e9f595bebe4751c42900f38d1a4b6.webp" group-title="Movies", Meg2: The Trench 2023
 https://cdnvod2.n2olabs.pro/m3u8/899098/1080p/index.m3u8
