@@ -1,2 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="", live
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
 https://livecdn-iptv002.rumsport.com/stream/11642/index.m3u8
